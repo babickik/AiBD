@@ -1,1 +1,2 @@
 ﻿
+W tym katalogu przechowywane są pliki z uporządkowanymi danymi w dwóch wersjach (z rozszerzeniem .csv oraz .xlsx). Dzięki przetworzeniu danych z tablicy można w przystępny sposób analizować interesujące nas dane. Tabela jest węższa zatem nie musimy się martwić przesuwaniem okna we wszystkie strony. Co więcej, dane są posortowane utowrami, zatem bez problemu można zauważyć jak dana piosenka spadała bądź wznosiła się w rankingu.

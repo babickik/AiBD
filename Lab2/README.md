@@ -1,0 +1,1 @@
+Celem ćwiczenia jest zapoznanie się z metodą uporządkowywania danych TIER protocol, który proponuje konkretną strukturę projektu, aby był on czytelny zarówno dla autora jak i osób niezaznajomionych z tematem. Ponadto laboratorium utrwala wiedzę z zakresu Pythona i biblioteki Pandas, a także DataFrame i Numpy.

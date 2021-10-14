@@ -1,1 +1,3 @@
 ﻿
+W tym katalogu zamieszczony jest kod programu przetwarzający oryginalne dane na lepiej czytelne.
+Sam kod pobiera dane, następnie tworzy nową tabelę, do której dodaje wierszowo piosenki z ich wykonawcą, nazwą, czasem trwania, gatunkiem, datą wejścia na rynek, datą najlepiej lokacji oraz numerem tygodnia i miejscem w rankinku, na którym była piosenka w danym tygodniu. Na końcu pozostaje zapisać przetworzone dane w nowym pliku.
